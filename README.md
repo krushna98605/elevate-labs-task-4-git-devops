@@ -46,3 +46,19 @@ This project demonstrates Git version control best practices for a DevOps workfl
 
 \- Markdown documentation
 
+\## Health Check
+
+
+
+The project includes a standard health-check concept for monitoring application availability.
+
+
+
+\### Endpoint
+
+
+
+```text
+
+GET /health
+
